@@ -2,7 +2,8 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=JungWanHong&fontSize=90)
 
 
-<p align="center"> 👋 Hi, I'm JungWanHong</p>
+<p align="center"> 👋 Hi 
+   <br> I'm JungWanHong</p>
 <p align="center"> You just made my day! 👊</p>
 
 <br>
