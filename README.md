@@ -3,7 +3,7 @@
 
 
 <p align="center"> 👋 Hi 
-   <br> I'm JungWanHong</p>
+  <br> <br> I'm JungWanHong</p>
 <p align="center"> You just made my day! 👊</p>
 
 <br>
