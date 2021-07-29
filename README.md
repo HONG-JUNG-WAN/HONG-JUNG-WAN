@@ -11,8 +11,6 @@
 <h3 align="center">⚒ Tech Stack ⚒<h3>
 <p align="center">
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
-    <img src="https://img.shields.io/badge/Html5-blue?style=flat-square&logo=Html5&logoColor=white"/></a>&nbsp 
-    <img src="https://img.shields.io/badge/C-success?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/Linux-orange?style=flat-square&logo=Linux&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/Mysql-red?style=flat-square&logo=Mysql&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/SpringBoot-brightgreen?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp 
