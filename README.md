@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/Mysql-red?style=flat-square&logo=Mysql&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/SpringBoot-brightgreen?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/git-FFB13B?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp 
-    <img src="https://img.shields.io/badge/AWS-red?style=flat-square&logo=AWS&logoColor=white"/></a>&nbsp 
+    <img src="https://img.shields.io/badge/Amazon AWS-red?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>&nbsp 
 </p>
 
 <h3 align="center">👉  Me 👈 <h3>
