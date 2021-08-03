@@ -6,6 +6,9 @@
   <br> <br> I'm JungWanHong</p>
 <p align="center"> You just made my day! 👊</p>
 
+[![HONG-JUNG-WAN GitHub stats](https://github-readme-stats.vercel.app/api?username=HONG-JUNG-WAN)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <br>
 
 <h3 align="center">⚒ Tech Stack ⚒<h3>
