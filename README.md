@@ -1,11 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=JungWanHong&fontSize=90)
 
-
-<p align="center"> 👋 Hi 
-  <br> <br> I'm JungWanHong</p>
-<p align="center"> You just made my day! 👊</p>
-
+<p align="center"> You just made my day 🤠</p>
  
 <br>
 
@@ -16,7 +12,7 @@
     <img src="https://img.shields.io/badge/Mysql-red?style=flat-square&logo=Mysql&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/SpringBoot-brightgreen?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/git-FFB13B?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp 
-    <img src="https://img.shields.io/badge/Amazon AWS-red?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>&nbsp 
+    <img src="https://img.shields.io/badge/Amazon AWS-informational?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>&nbsp 
 </p>
 
 <h3 align="center">👉  Me 👈 <h3>
@@ -27,7 +23,10 @@
 
 </p>
 
-[![HONG-JUNG-WAN GitHub stats](https://github-readme-stats.vercel.app/api?username=HONG-JUNG-WAN)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHONG-JUNG-WAN&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-</p>
+
+![HONG-JUNG-WAN GitHub stats](https://github-readme-stats.vercel.app/api?username=HONG-JUNG-WAN&&show_icons=true&theme=cobalt)
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHONG-JUNG-WAN&count_bg=%233D8EC8&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
