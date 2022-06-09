@@ -10,9 +10,11 @@
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/Linux-orange?style=flat-square&logo=Linux&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/Mysql-red?style=flat-square&logo=Mysql&logoColor=white"/></a>&nbsp 
-    <img src="https://img.shields.io/badge/Spring Boot-brightgreen?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp 
+    <img src="https://img.shields.io/badge/Spring Boot-brightgreen?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Spring Data JPA-green?style=flat-square&logo=SpringDataJPA&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/QueryDSL-informational?style=flat-square&logo=QueryDSL&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Amazon AWS-informational?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/JPA-brightgreen?style=flat-square&logo=JPA&logoColor=white"/></a>&nbsp <br> <br>
+    <img src="https://img.shields.io/badge/JPA-green?style=flat-square&logo=JPA&logoColor=white"/></a>&nbsp <br> <br>
     <img src="https://img.shields.io/badge/Git-FFB13B?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>&nbsp 
